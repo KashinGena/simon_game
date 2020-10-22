@@ -1,19 +1,19 @@
-# simon_game
+# Simon game
 
-## Project setup
-```
-npm install
-```
+## Тестовое задание на позицию Junior Frontend Developer в MEDODS
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+[Ссылка на задание](https://onedrive.live.com/?authkey=%21ACYTStlP%5FjJPAx8&cid=537426CC27EA7F46&id=537426CC27EA7F46%218424&parId=537426CC27EA7F46%218436&o=OneUp)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Написать игру Simon Game с выбором уровня сложности
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Проект выполнен на VueJS
+
+Ссылка на деплой проекта на GitHub Pages: [здесь](https://kashingena.github.io/simon_game/)
+
+## Скачивание
+- Клонируем ветку __main__
+- Установка зависимостей: __npm install__
+-  Запустить в режиме разработчика: __npm run serve__ и открываем  http://localhost:8080
+- Собрать проект: __npm run build__
+
+
